@@ -1,0 +1,168 @@
+	CellTypes	Var1	BroadCategory
+1	aDC	aDC	DC
+2	Adipocytes	Adipocytes	Other1
+3	Astrocytes	Astrocytes	Other1
+4	B_cell	B_cell	B_cell
+5	B_cell_memory	B cell memory	B_cell
+6	B_cell_naive	B cell naive	B_cell
+7	B_cell_plasma	B cell plasma	B_cell
+8	B_cells	B_cells	B_cell
+9	B_Cells	B Cells	B_cell
+10	B_derived	B derived	B_cell
+11	B_Memory	B Memory	B_cell
+12	B_Naive	B Naive	B_cell
+13	B-cells	B-cells	B_cell
+14	B.cells	B.cells	B_cell
+15	Basophils	Basophils	Myeloid
+16	Basophils_LD	Basophils LD	Myeloid
+17	Bcells	Bcells	B_cell
+18	CAFs	CAFs	Other1
+19	CD4_Memory	CD4_Memory	T_cell_CD4
+20	CD4_Naive	CD4_Naive	T_cell_CD4
+21	CD4_T_Cells	CD4 T Cells	T_cell_CD4
+22	CD4_Tcells	CD4_Tcells	T_cell_CD4
+23	CD4+_memory_T-cells	CD4+ memory T-cells	T_cell_CD4
+24	CD4+_naive_T-cells	CD4+ naive T-cells	T_cell_CD4
+25	CD4+_T-cells	CD4+ T-cells	T_cell_CD4
+26	CD4+_Tcm	CD4+ Tcm	T_cell_CD4
+27	CD4+_Tem	CD4+ Tem	T_cell_CD4
+28	CD8_Eff	CD8_Eff	T_cell_CD8
+29	CD8_Memory	CD8_Memory	T_cell_CD8
+30	CD8_Naive	CD8_Naive	T_cell_CD8
+31	CD8_T_cells	CD8 T cells	T_cell_CD8
+32	CD8_T_Cells	CD8 T Cells	T_cell_CD8
+33	CD8_Tcells	CD8_Tcells	T_cell_CD8
+34	CD8+_naive_T-cells	CD8+ naive T-cells	T_cell_CD8
+35	CD8+_T-cells	CD8+ T-cells	T_cell_CD8
+36	CD8+_Tcm	CD8+ Tcm	T_cell_CD8
+37	CD8+_Tem	CD8+ Tem	T_cell_CD8
+38	cDC	cDC	DC
+39	Chondrocytes	Chondrocytes	Other1
+40	Class-switched_memory_B-cells	Class-switched memory B-cells	B_cell
+41	CLP	CLP	Lymphoid
+42	CMP	CMP	Myeloid
+43	Correlation	Correlation	Score
+44	Cytotoxic_cells	Cytotoxic_cells	T_cell
+45	DC	DC	DC
+46	Dendritic_cells	Dendritic_cells	DC
+47	Dendritic_Cells	Dendritic Cells	DC
+48	Dendritic.cells	Dendritic.cells	DC
+49	Dev_B_cells	Dev_B_cells	B_cell
+50	Endothelial	Endothelial	Endothelial_cells
+51	Endothelial_cells	Endothelial cells	Endothelial_cells
+52	Eosinophil	Eosinophil	Myeloid
+53	Eosinophils	Eosinophils	Myeloid
+54	Epithelial_cells	Epithelial cells	Other1
+55	Erythrocytes	Erythrocytes	Other1
+56	Fibroblasts	Fibroblasts	Other1
+57	GMP	GMP	Myeloid
+58	Granulocytes	Granulocytes	Myeloid
+59	Hepatocytes	Hepatocytes	Other1
+60	HSC	HSC	Other1
+61	iDC	iDC	DC
+62	Immune_Score	Immune_Score	Score
+63	ImmuneScore	ImmuneScore	Score
+64	Keratinocytes	Keratinocytes	Other1
+65	ly_Endothelial_cells	ly Endothelial cells	Endothelial_cells
+66	Lymphatics	Lymphatics	Lymphoid
+67	Macrophage	Macrophage	Monocytes_Macrophages
+68	Macrophage_M0	Macrophage M0	Monocytes_Macrophages
+69	Macrophage_M1	Macrophage M1	Monocytes_Macrophages
+70	Macrophage_M2	Macrophage M2	Monocytes_Macrophages
+71	Macrophages	Macrophages	Monocytes_Macrophages
+72	Macrophages_M1	Macrophages_M1	Monocytes_Macrophages
+73	Macrophages_M1	Macrophages M1	Monocytes_Macrophages
+74	Macrophages_M2	Macrophages_M2	Monocytes_Macrophages
+75	Macrophages_M2	Macrophages M2	Monocytes_Macrophages
+76	Macrophages.M1	Macrophages.M1	Monocytes_Macrophages
+77	Macrophages.M2	Macrophages.M2	Monocytes_Macrophages
+78	MAIT	MAIT	T_cell
+79	Mast_cell_activated	Mast cell activated	Myeloid
+80	Mast_cell_resting	Mast cell resting	Myeloid
+81	Mast_cells	Mast cells	Myeloid
+82	Mast_cells	Mast_cells	Myeloid
+83	Mast_Cells	Mast Cells	Myeloid
+84	mDCs	mDCs	DC
+85	Megakaryocytes	Megakaryocytes	Other1
+86	Melanocytes	Melanocytes	Other1
+87	Memory_B_cells	Memory B cells	B_cell
+88	Memory_B-cells	Memory B-cells	B_cell
+89	MEP	MEP	Other1
+90	Mesangial_cells	Mesangial cells	Other1
+91	MicroenvironmentScore	MicroenvironmentScore	Score
+92	Monocyte	Monocyte	Monocytes_Macrophages
+93	Monocytes	Monocytes	Monocytes_Macrophages
+94	Monocytes_/_macrophages	Monocytes / macrophages	Monocytes_Macrophages
+95	Monocytes_C	Monocytes C	Monocytes_Macrophages
+96	Monocytes_NC+I	Monocytes NC+I	Monocytes_Macrophages
+97	MPP	MPP	Other1
+98	MSC	MSC	Other1
+99	mv_Endothelial_cells	mv Endothelial cells	Endothelial_cells
+100	Myeloid_dendritic_cell_activated	Myeloid dendritic cell activated	DC
+101	Myeloid_dendritic_cell_resting	Myeloid dendritic cell resting	DC
+102	Myocytes	Myocytes	Monocytes_Macrophages
+103	naive_B-cells	naive B-cells	B_cell
+104	Neurons	Neurons	Other1
+105	Neutrophil	Neutrophil	Neutrophil
+106	Neutrophils	Neutrophils	Neutrophil
+107	Neutrophils_LD	Neutrophils LD	Neutrophil
+108	NK	NK	NK_cell
+109	NK_cell_activated	NK cell activated	NK_cell
+110	NK_cell_resting	NK cell resting	NK_cell
+111	NK_cells	NK_cells	NK_cell
+112	NK_cells	NK cells	NK_cell
+113	NK_Cells	NK Cells	NK_cell
+114	NK.cells	NK.cells	NK_cell
+115	NKcells	NKcells	NK_cell
+116	NKT	NKT	T_cell
+117	NKT_cells	NKT_cells	T_cell
+118	Osteoblast	Osteoblast	Other1
+119	Other	Other	Other1
+120	otherCells	otherCells	Other1
+121	pDC	pDC	DC
+122	pDCs	pDCs	DC
+123	Pericytes	Pericytes	Other1
+124	Plasma_cells	Plasma_cells	Lymphoid
+125	Plasma_cells	Plasma cells	Lymphoid
+126	Plasmablasts	Plasmablasts	Lymphoid
+127	plasmacytoid_DCs	plasmacytoid_DCs	Lymphoid
+128	Platelets	Platelets	Other1
+129	Preadipocytes	Preadipocytes	Other1
+130	pro_B-cells	pro B-cells	B_cell
+131	RSEM	RSEM	score
+132	Sebocytes	Sebocytes	Other1
+133	Skeletal_muscle	Skeletal muscle	Other1
+134	Smooth_muscle	Smooth muscle	Other1
+135	Stem	Stem	Stem
+136	Stromal	Stromal	Other1
+137	StromaScore	StromaScore	Score
+138	T_CD4_Memory	T CD4 Memory	T_cell_CD4
+139	T_CD4_Naive	T CD4 Naive	T_cell_CD4
+140	T_CD8_Memory	T CD8 Memory	T_cell_CD8
+141	T_CD8_Naive	T CD8 Naive	T_cell_CD8
+142	T_cell_CD4+_memory_activated	T cell CD4+ memory activated	T_cell_CD4
+143	T_cell_CD4+_memory_resting	T cell CD4+ memory resting	T_cell_CD4
+144	T_cell_CD4+_naive	T cell CD4+ naive	T_cell_CD4
+145	T_cell_CD8+	T cell CD8+	T_cell_CD8
+146	T_cell_follicular_helper	T cell follicular helper	T_cell
+147	T_cell_gamma_delta	T cell gamma delta	T_cell
+148	T_cell_regulatory_(Tregs)	T cell regulatory (Tregs)	T_cell
+149	T_cell.CD4	T_cell.CD4	T_cell_CD4
+150	T_cell.CD8	T_cell.CD8	T_cell_CD8
+151	T_cells	T cells	T_cell
+152	T_cells_CD4	T_cells_CD4	T_cell_CD4
+153	T_cells_CD8	T_cells_CD8	T_cell_CD8
+154	T_cells_gamma_delta	T_cells_gamma_delta	T_cell
+155	T_gd_non-Vd2	T gd non-Vd2	T_cell
+156	T_gd_Vd2	T gd Vd2	T_cell
+157	T_regulatory_cells	T_regulatory_cells	T_cell
+158	T-reg	T-reg	T_cell
+159	T.cells.CD4	T.cells.CD4	T_cell_CD4
+160	T.cells.CD8	T.cells.CD8	T_cell_CD8
+161	Tgd_cells	Tgd cells	T_cell
+162	Th1_cells	Th1 cells	T_cell
+163	Th2_cells	Th2 cells	T_cell
+164	Thymocytes	Thymocytes	Lymphoid
+165	Tregs	Tregs	T_cell
+166	Vessels	Vessels	Other1
+167	NA	NA	NA

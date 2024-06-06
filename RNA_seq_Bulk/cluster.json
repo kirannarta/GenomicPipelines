@@ -1,0 +1,12 @@
+{
+	"__default__":{
+		"time": "7-00:00:00",
+		"n": 2,
+		"mem": 40000,
+		"partition": "sherlock,cpu2022,cpu2021,cpu2023",
+		"output": "out_err/%J.out",
+		"error": "out_err/%J.err",
+		"cpus-per-task":10
+	}
+}	
+

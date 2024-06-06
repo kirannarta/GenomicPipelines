@@ -1,0 +1,172 @@
+{
+    "C19f1": {
+        "R1": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40971/C19f1_S2_L001_R1_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40971/C19f1_S2_L002_R1_001.fastq.gz"
+        ],
+        "R2": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40971/C19f1_S2_L001_R2_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40971/C19f1_S2_L002_R2_001.fastq.gz"
+        ]
+    },
+    "C22f1": {
+        "R1": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40972/C22f1_S3_L001_R1_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40972/C22f1_S3_L002_R1_001.fastq.gz"
+        ],
+        "R2": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40972/C22f1_S3_L001_R2_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40972/C22f1_S3_L002_R2_001.fastq.gz"
+        ]
+    },
+    "C23f1": {
+        "R1": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40973/C23f1_S4_L001_R1_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40973/C23f1_S4_L002_R1_001.fastq.gz"
+        ],
+        "R2": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40973/C23f1_S4_L001_R2_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40973/C23f1_S4_L002_R2_001.fastq.gz"
+        ]
+    },
+    "C2f4": {
+        "R1": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40970/C2f4_S1_L001_R1_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40970/C2f4_S1_L002_R1_001.fastq.gz"
+        ],
+        "R2": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40970/C2f4_S1_L001_R2_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40970/C2f4_S1_L002_R2_001.fastq.gz"
+        ]
+    },
+    "CHGI-NTC": {
+        "R1": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40986/CHGI-NTC_S17_L001_R1_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40986/CHGI-NTC_S17_L002_R1_001.fastq.gz"
+        ],
+        "R2": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40986/CHGI-NTC_S17_L001_R2_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40986/CHGI-NTC_S17_L002_R2_001.fastq.gz"
+        ]
+    },
+    "M12f4": {
+        "R1": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40980/M12f4_S11_L001_R1_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40980/M12f4_S11_L002_R1_001.fastq.gz"
+        ],
+        "R2": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40980/M12f4_S11_L001_R2_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40980/M12f4_S11_L002_R2_001.fastq.gz"
+        ]
+    },
+    "M12f5": {
+        "R1": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40981/M12f5_S12_L001_R1_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40981/M12f5_S12_L002_R1_001.fastq.gz"
+        ],
+        "R2": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40981/M12f5_S12_L001_R2_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40981/M12f5_S12_L002_R2_001.fastq.gz"
+        ]
+    },
+    "M12m1": {
+        "R1": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40982/M12m1_S13_L001_R1_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40982/M12m1_S13_L002_R1_001.fastq.gz"
+        ],
+        "R2": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40982/M12m1_S13_L001_R2_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40982/M12m1_S13_L002_R2_001.fastq.gz"
+        ]
+    },
+    "M12m2": {
+        "R1": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40983/M12m2_S14_L001_R1_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40983/M12m2_S14_L002_R1_001.fastq.gz"
+        ],
+        "R2": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40983/M12m2_S14_L001_R2_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40983/M12m2_S14_L002_R2_001.fastq.gz"
+        ]
+    },
+    "M3f2": {
+        "R1": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40974/M3f2_S5_L001_R1_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40974/M3f2_S5_L002_R1_001.fastq.gz"
+        ],
+        "R2": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40974/M3f2_S5_L001_R2_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40974/M3f2_S5_L002_R2_001.fastq.gz"
+        ]
+    },
+    "M3f3": {
+        "R1": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40975/M3f3_S6_L001_R1_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40975/M3f3_S6_L002_R1_001.fastq.gz"
+        ],
+        "R2": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40975/M3f3_S6_L001_R2_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40975/M3f3_S6_L002_R2_001.fastq.gz"
+        ]
+    },
+    "M3m2": {
+        "R1": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40976/M3m2_S7_L001_R1_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40976/M3m2_S7_L002_R1_001.fastq.gz"
+        ],
+        "R2": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40976/M3m2_S7_L001_R2_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40976/M3m2_S7_L002_R2_001.fastq.gz"
+        ]
+    },
+    "M3m3": {
+        "R1": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40977/M3m3_S8_L001_R1_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40977/M3m3_S8_L002_R1_001.fastq.gz"
+        ],
+        "R2": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40977/M3m3_S8_L001_R2_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40977/M3m3_S8_L002_R2_001.fastq.gz"
+        ]
+    },
+    "M6f3": {
+        "R1": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40978/M6f3_S9_L001_R1_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40978/M6f3_S9_L002_R1_001.fastq.gz"
+        ],
+        "R2": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40978/M6f3_S9_L001_R2_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40978/M6f3_S9_L002_R2_001.fastq.gz"
+        ]
+    },
+    "M6m1": {
+        "R1": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40979/M6m1_S10_L001_R1_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40979/M6m1_S10_L002_R1_001.fastq.gz"
+        ],
+        "R2": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40979/M6m1_S10_L001_R2_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40979/M6m1_S10_L002_R2_001.fastq.gz"
+        ]
+    },
+    "normal-F1": {
+        "R1": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40984/normal-F1_S15_L001_R1_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40984/normal-F1_S15_L002_R1_001.fastq.gz"
+        ],
+        "R2": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40984/normal-F1_S15_L001_R2_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40984/normal-F1_S15_L002_R2_001.fastq.gz"
+        ]
+    },
+    "normal-M6": {
+        "R1": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40985/normal-M6_S16_L001_R1_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40985/normal-M6_S16_L002_R1_001.fastq.gz"
+        ],
+        "R2": [
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40985/normal-M6_S16_L001_R2_001.fastq.gz",
+            "/work/morrissy_lab/courtney/mGBM_modeling_clonality_RNA/Li40985/normal-M6_S16_L002_R2_001.fastq.gz"
+        ]
+    }
+}
